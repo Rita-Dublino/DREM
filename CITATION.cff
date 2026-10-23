@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use DREM, please cite the preprint below."
+title: "DREM: Deep Resistance gene Evaluator Model"
+type: software
+version: 1.0.0
+license: AGPL-3.0-only
+repository-code: "https://github.com/Rita-Dublino/DREM"
+authors:
+  - family-names: Dublino
+    given-names: Rita
+  - family-names: Carandente
+    given-names: Vincenzo
+  - family-names: Sperlì
+    given-names: Giancarlo
+  - family-names: Ercolano
+    given-names: Maria Raffaella
+preferred-citation:
+  type: article
+  title: "DREM: integrating resistance and domain probabilities to prioritize plant immune receptors"
+  authors:
+    - family-names: Dublino
+      given-names: Rita
+    - family-names: Carandente
+      given-names: Vincenzo
+    - family-names: Sperlì
+      given-names: Giancarlo
+    - family-names: Ercolano
+      given-names: Maria Raffaella
+  journal: "bioRxiv"
+  year: 2026
+  doi: "10.64898/2026.10.21.760626"
